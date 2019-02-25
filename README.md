@@ -1,2 +1,1 @@
-My experiences on natural language processing
-
+My study notes on NLP
